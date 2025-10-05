@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pillow
+numpy
+ultralytics
+torch
+torchvision
+easyocr
+python-dotenv
