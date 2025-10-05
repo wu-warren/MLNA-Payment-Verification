@@ -13,9 +13,6 @@ secrets/
 # Data & models (keep big stuff out of the main repo)
 datasets/
 runs/
-*.pt
-*.onnx
-*.weights
 
 # OS / misc
 .DS_Store
