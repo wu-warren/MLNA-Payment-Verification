@@ -3,6 +3,8 @@ from fastapi import FastAPI, HTTPException
 from fastapi.responses import JSONResponse
 from PIL import Image
 import numpy as np
+from dotenv import load_dotenv
+load_dotenv()
 
 # ---- EasyOCR (text recognizer) ----
 import easyocr
