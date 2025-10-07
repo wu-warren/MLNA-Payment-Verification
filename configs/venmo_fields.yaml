@@ -1,0 +1,6 @@
+# data/venmo_fields.yaml
+path: datasets/venmo_fields
+train: images/train
+val: images/val
+nc: 3
+names: [amount, date, handle]
